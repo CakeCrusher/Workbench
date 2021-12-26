@@ -17,3 +17,8 @@ Before making the beams I prepared this basic diagram detailing the vertical pla
      alt="GiveSpace icon" width="200px" style="border-radius: 10px;">
 
 I spent 2 hours making 3 of the 4 beams while simultaneously learning how to use the tools available to me and the basics of woodworking. The 4th one was made afterwords.
+
+Below are the four beams. Each measures 33in in height.
+
+<img src="https://github.com/CakeCrusher/Workbench/blob/master/1_beams/flat_arrangement.jpg" align="center"
+     alt="GiveSpace icon" height="300px" style="border-radius: 10px;">
