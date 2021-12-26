@@ -67,3 +67,27 @@ Finally the two walls were completed.
 
 <img src="https://github.com/CakeCrusher/Workbench/blob/master/3_walls/walls_completed.jpg" align="center"
      alt="final plan" height="300px" style="border-radius: 10px;">
+
+## Part 4: Cubed
+
+My newly aquired experience and the measuring and setup being behind me I presumed this would be one of the simpler parts of the build. This final stretch was just as difficult if not slightly more so. The primary reason for the increase in difficulty was weight. Untill that point I never considered the weight of the table but I quickly learned how impactful it would be. For one, nailing the first piece required a unique and more exhausting technique (I had to lay on my stomach, and put pressure on the nail while my arms hovered above the ground). Beneath is the picture of the first piece.
+
+<img src="https://github.com/CakeCrusher/Workbench/blob/master/4_cube/first_connection.jpg" align="center"
+     alt="final plan" height="300px" style="border-radius: 10px;">
+
+Then as I tried to rotate the workbench I suspected the workbench may break if I continue. Instead of rotating it I chose to just push it back and nail it from the other side. This presented another challenge in the form of friction. If I tried nailing it as it was, I would push the table before the nail went in. As a solution I added friction to the other side with the leftover planks I had.
+
+<img src="https://github.com/CakeCrusher/Workbench/blob/master/4_cube/friction.jpg" align="center"
+     alt="final plan" height="300px" style="border-radius: 10px;">
+
+As I was nailing the other plank I crossed paths with the consequence of build's imperfections. The imperfections resulted in a plank being elevated on one side. I responded by trying to clamp it only to learn the clamp was too short so I doubled the clamps by linking them together.
+
+<img src="https://github.com/CakeCrusher/Workbench/blob/master/4_cube/extended_clamps.jpg" align="center"
+     alt="final plan" height="300px" style="border-radius: 10px;">
+
+I then moved on to the next set of connections. Again facing the effects of imperfections I observed the walls were not parallel. To combat that I had to force them together, I looked for some kind of band that I could wrap around to tighten them, I found none. As a result I resorted to using used jumper cables I had laying around (it by no means was a perfect too but i had to make do 🤷‍♂️).
+
+<img src="https://github.com/CakeCrusher/Workbench/blob/master/4_cube/tension.jpg" align="center"
+     alt="final plan" height="300px" style="border-radius: 10px;">
+
+Finally after nailing the remaining two planks the workbench was done!
