@@ -45,3 +45,25 @@ Below are the 4x 39in wall planks. (my legs made a cameo!)
 
 <img src="https://github.com/CakeCrusher/Workbench/blob/master/2_setup/39in_angle1.jpg" align="center"
      alt="final plan" height="300px" style="border-radius: 10px;">
+
+## Part 3: Walls
+
+For the walls I used the 39in planks to connect two beams. After I nailed the first connection I realized that the beams were not perfectly parallel. There are two likely reasons for this:
+
+- the wood was bent
+- the surface they were on was not completely flat
+
+Below are the beams (regretfully) not parallel after being nailed together. (If you can see it off of this picture, you deserve an award, here have this 🏆. Trust me though they're not parallel.)
+
+<img src="https://github.com/CakeCrusher/Workbench/blob/master/3_walls/1st_connection.jpg" align="center"
+     alt="final plan" height="300px" style="border-radius: 10px;">
+
+To align them I put pressure on them with my foot while I nailed them down. (Serious acrobatics required for this move) Below is me aligning them with my foot.
+
+<img src="https://github.com/CakeCrusher/Workbench/blob/master/3_walls/2nd_connection_setup.jpg" align="center"
+     alt="final plan" height="300px" style="border-radius: 10px;">
+
+Finally the two walls were completed.
+
+<img src="https://github.com/CakeCrusher/Workbench/blob/master/3_walls/walls_completed.jpg" align="center"
+     alt="final plan" height="300px" style="border-radius: 10px;">
