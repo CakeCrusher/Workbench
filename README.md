@@ -120,3 +120,18 @@ Finally the length of the workbench measured nearly 52in. With an inaccuracy of 
 Here is a video of the finished workbench. In addition to showing the table I intend to share on social media in case your wondering why all the unecessary commentary 🥴.
 
 https://user-images.githubusercontent.com/37946988/147594992-ddf5633b-a33f-4ff0-b12e-3283cc0816d7.mp4
+
+## Part 6: Epilogue
+
+Coming into the project I had an experiment in mind: what would it be like to use Git for recording the process of a non-digital project. It turns out it is excessively time consuming, partially because the process is highly disconnected. To clarify this dissonance I will list out the steps:
+
+1. Make progress on something (phisical)
+2. Make the recording. This will require you to pull out your phone or anything to transcribe the phisical object to digital, throught the form of a picture, video, or any other kind of data.
+3. Transfer the recording to a computer. This step will most often than not be the case as the recording will often times not be done on the same machine you handle Git on.
+4. Upload to Git.
+
+In comparison, a digital project would only require the 1st and 4th steps (Which were also the shortest ones).
+
+It is important to note that in a phisical project you cannot benefit from some of git's features, notably reverting to older versions as one does digitally. Nonetheless I think it could still have merit in the phisical world.
+
+With the advent of wearable, hands free, and more conencted devices step 2, at least, will become a lot easier. Facilitating the rest of the steps will be a matter of software. Which is why in the near future I have plans on setting up the software with the goal to facilitate the integration of git into everyday phisical tasks and projects. Feel free to get in touch with me If you would like to contribute.
