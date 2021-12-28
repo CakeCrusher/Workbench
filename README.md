@@ -14,7 +14,7 @@ I followed this [video](https://www.youtube.com/watch?v=PMJ4Lob5Q4I&t=325s) as r
 Before making the beams I prepared this basic diagram detailing the vertical plan for the table.
 
 <img src="https://github.com/CakeCrusher/Workbench/blob/master/1_beams/plan.jpg" align="center"
-     alt="plan" width="200px" style="border-radius: 10px;">
+     alt="plan" height="300px" style="border-radius: 10px;">
 
 I spent 2 hours making 3 of the 4 beams while simultaneously learning how to use the tools available to me and the basics of woodworking. The 4th one was made afterwords.
 
@@ -91,3 +91,26 @@ I then moved on to the next set of connections. Again facing the effects of impe
      alt="final plan" height="300px" style="border-radius: 10px;">
 
 Finally after nailing the remaining two planks the workbench was done!
+
+## Part 5: Finished-bench
+
+Once finished I made some final measurements to ensure the table aligned with the plan. Fortunatly in measurements (which was all I planned for) it was virtually identical to the plan. The only inaccuracies came from the poor wood quality as some of it was bent as a result.
+
+Below is the height of the workbench measuring at around 33in.
+
+<img src="https://github.com/CakeCrusher/Workbench/blob/master/5_finishedbench/z.jpg" align="center"
+     alt="final plan" height="300px" style="border-radius: 10px;">
+
+Next is the width of the workbench measuring roughly 42in. This was the most inaccurate with an inaccuracy of range (depending on where on the side you measured) of 0-2 tenths of an inch. This was due to the bend in the wood.
+
+<img src="https://github.com/CakeCrusher/Workbench/blob/master/5_finishedbench/x.jpg" align="center"
+     alt="final plan" height="300px" style="border-radius: 10px;">
+
+Finally the length of the workbench measured nearly 52in. With an inaccuracy of 0-1 tenths of an inch.
+
+<img src="https://github.com/CakeCrusher/Workbench/blob/master/5_finishedbench/y.jpg" align="center"
+     alt="final plan" height="300px" style="border-radius: 10px;">
+
+Here is a video of the finished workbench. In addition to showing the table I intend to share on social media in case your wondering why all the unecessary commentary 🥴.
+
+https://github.com/CakeCrusher/Workbench/tree/master/5_finishedbench/Workbench_final.mov
