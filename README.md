@@ -94,7 +94,9 @@ Finally after nailing the remaining two planks the workbench was done!
 
 ## Part 5: Finished-bench
 
-Once finished I made some final measurements to ensure the table aligned with the plan. Fortunatly in measurements (which was all I planned for) it was virtually identical to the plan. The only inaccuracies came from the poor wood quality as some of it was bent as a result.
+After an accumulated 7ish hours of planning, learning, and working I finished the table (working with crap wood makes the process much longer that it normally take otherwise).
+
+I made some final measurements to ensure the table aligned with the plan. Fortunatly in measurements (which was all I planned for) (🐘 weight was not...) it was virtually identical to the plan. The only inaccuracies came from the poor wood quality as some of it was bent as a result.
 
 Below is the height of the workbench measuring at around 33in.
 
@@ -112,5 +114,3 @@ Finally the length of the workbench measured nearly 52in. With an inaccuracy of 
      alt="final plan" height="300px" style="border-radius: 10px;">
 
 Here is a video of the finished workbench. In addition to showing the table I intend to share on social media in case your wondering why all the unecessary commentary 🥴.
-
-https://github.com/CakeCrusher/Workbench/tree/master/5_finishedbench/Workbench_final.mov
