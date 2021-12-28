@@ -115,4 +115,8 @@ Finally the length of the workbench measured nearly 52in. With an inaccuracy of 
 
 Here is a video of the finished workbench. In addition to showing the table I intend to share on social media in case your wondering why all the unecessary commentary 🥴.
 
-https://github.com/CakeCrusher/Workbench/tree/master/5_finishedbench/workbench_final.mp4
+
+
+https://user-images.githubusercontent.com/37946988/147594992-ddf5633b-a33f-4ff0-b12e-3283cc0816d7.mp4
+
+
