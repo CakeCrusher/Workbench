@@ -3,6 +3,9 @@
 
 # Workbench
 
+### This is an experiment on what it is like to use Git for a phisical project. Head to [Part 6: Epilogue](#part-6-epilogue) for the results.
+
+
 This is my first woodworking project!
 
 As a developer it is my duty to post all projects on GitHub. So here is a (physical) woodworking project on GitHub
